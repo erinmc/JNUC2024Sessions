@@ -1,5 +1,6 @@
 ## ZTNA Common Misconceptions and Why It Should Replace Your VPN
 October 03, 2024 | 10:15 AM CDT
+
 For those who want to learn how ZTNA can revolutionize network security and access in their organizations, we will review the steps for identity providers to enforce and route traffic effectively with Jamf Trust. We will showcase configurations for Google, Okta, and Entra ID, and user experience on all four platforms (macOS, iOS, Windows, Android), along with the benefits and core features of Jamf Security Cloud in relation to accessing on-premises or private cloud resources.
 
 ## Break Glass: How to Securely Administer Computers Using Jamf Pro LAPS
