@@ -1,5 +1,6 @@
 # Tuesday
 ## Break Glass: How to Securely Administer Computers Using Jamf Pro LAPS
+
 Tuesday, Oct 1
 3:30 PM - 4:15 PM CDT
 With Rob Potvin and Mark Buffington
@@ -16,14 +17,16 @@ We'll cover Jamf Pro's two available LAPS implementations and which is right for
 
 If you haven't yet implemented a LAPS solution in your environment, Jamf Pro LAPS is the best security tool you can put into action this year.
 
-# Thursday
+# Wednesday 
 ## Exploring Serialized Data Formats for Fun and Profit
 
-October 03 | 09:00 CDT
+October 02 | 09:00 CDT
 
 There are many serialized data formats, but three of them, XML, PLIST and JSON, stand out against the background when managing Apple operating systems. In this session, we will explore these formats, from their simple specifications to more complex examples, helping to build up our mental models. We will also compare their similarities and differences and get to know the tooling that comes preinstalled on our Macs, using them to manipulate and extract data from these formats.
 
+# Thursday
 ## ZTNA Common Misconceptions and Why It Should Replace Your VPN
+
 October 03 | 10:15 AM CDT
 
 For those who want to learn how ZTNA can revolutionize network security and access in their organizations, we will review the steps for identity providers to enforce and route traffic effectively with Jamf Trust. We will showcase configurations for Google, Okta, and Entra ID, and user experience on all four platforms (macOS, iOS, Windows, Android), along with the benefits and core features of Jamf Security Cloud in relation to accessing on-premises or private cloud resources.
