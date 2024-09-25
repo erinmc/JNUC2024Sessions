@@ -83,3 +83,8 @@ Thursday, Oct 3
 10:15 AM - 11:00 AM CDT
 
 Bring your own Mac! In this lab, you have a hands-on experience on how to construct a Unified Log Filter to parse relevant information. Next, you'll use that filter to create both an Analytic and a Unified Logging Filter in Jamf Protect for macOS.
+
+##Exploring Serialized Data Formats for Fun and Profit
+
+October 03, 2024 | 09:00 CDT
+There are many serialized data formats, but three of them, XML, PLIST and JSON, stand out against the background when managing Apple operating systems. In this session, we will explore these formats, from their simple specifications to more complex examples, helping to build up our mental models. We will also compare their similarities and differences and get to know the tooling that comes preinstalled on our Macs, using them to manipulate and extract data from these formats.
