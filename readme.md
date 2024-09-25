@@ -86,5 +86,6 @@ Bring your own Mac! In this lab, you have a hands-on experience on how to constr
 
 ## Exploring Serialized Data Formats for Fun and Profit
 
-October 03, 2024 | 09:00 CDT
+Thursday, October 03 | 09:00 CDT
+
 There are many serialized data formats, but three of them, XML, PLIST and JSON, stand out against the background when managing Apple operating systems. In this session, we will explore these formats, from their simple specifications to more complex examples, helping to build up our mental models. We will also compare their similarities and differences and get to know the tooling that comes preinstalled on our Macs, using them to manipulate and extract data from these formats.
